@@ -1,0 +1,9 @@
+Package: com.icraze.hidequickactions
+Name: HideQuickActions
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide the Quick Actions on the iOS lock screen
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
